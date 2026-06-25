@@ -1,74 +1,125 @@
 <div align="center">
 
-# 👋 Hi, I'm Arasu
+# 👋 Hello, I'm Arasu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Cybersecurity+Enthusiast;Python+Developer;Linux+Learner;Building+Projects+and+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Cybersecurity+Enthusiast;Python+Developer;Linux+Explorer;Building+Projects+One+Day+at+A+Time" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=arasu404&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech Artificial Intelligence & Data Science Student
 
-🔐 Interested in Cybersecurity, Ethical Hacking, and CTFs
+🔐 Passionate about Cybersecurity, Linux, and Ethical Hacking
 
-🐍 Learning Python and building practical projects
+🐍 Python Developer focused on practical project building
 
-🌐 Developing web applications and portfolio projects
+🌐 Building modern web applications and portfolio projects
 
-🐧 Linux enthusiast and open-source learner
+📚 Constantly learning AI, Security, Backend Development, and Open Source Technologies
 
-📈 Focused on continuous learning and skill development
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Tools
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🎯 Long-Term Goal: Build secure and intelligent systems that combine AI and Cybersecurity
 
 ---
 
-## 🎯 Current Focus
+# 🌐 Portfolio
 
-- Building AI-powered applications
-- Learning Cybersecurity & CTFs
-- Improving Python Development skills
-- Exploring Linux Internals
-- Creating impactful portfolio projects
+### 🔗 Live Portfolio
+
+**https://arasu-portfolio-v2-0.vercel.app/**
 
 ---
 
-## 📂 Featured Projects
+# 🛠️ Tech Stack
 
-### 🌐 Cyber Portfolio
-Personal portfolio showcasing projects, skills, and achievements.
+## Languages
 
-### 🤖 AI Assistant Experiments
-Exploring conversational AI and automation with Python.
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
 
-### 🔐 Cybersecurity Learning Labs
-Hands-on practice with networking, Linux, and security concepts.
+## Frameworks & Tools
 
-### 📈 Self Growth Application
-Backend development for productivity and self-improvement tracking.
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,git,github,vscode,linux,bash" />
+</p>
+
+## Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,mysql,postgresql" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🎯 Current Focus
+
+- Python Development
+- Linux Administration
+- Cybersecurity Fundamentals
+- Capture The Flag (CTF) Challenges
+- AI-Powered Applications
+- Backend Development with Django
+- Building Real-World Portfolio Projects
+
+---
+
+# 📂 Featured Projects
+
+## 🌐 Cyber Portfolio
+
+A modern portfolio website featuring:
+
+- Responsive UI
+- Animated Sections
+- Project Showcase
+- Resume Download
+- Visitor Analytics
+- Professional Design
+
+---
+
+## 🤖 AI Assistant Experiments
+
+Personal assistant concepts combining:
+
+- Conversational AI
+- Automation
+- Python Development
+- Future Cybersecurity Integration
+
+---
+
+## 📈 Self Growth Application
+
+Proof-based productivity application focused on:
+
+- Goal Tracking
+- Progress Monitoring
+- Accountability System
+- Backend Development
+
+---
+
+## 🔐 Cybersecurity Learning Labs
+
+Hands-on learning projects involving:
+
+- Linux
+- Networking
+- Security Concepts
+- Scripting
+- CTF Practice
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -80,7 +131,7 @@ Backend development for productivity and self-improvement tracking.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -90,44 +141,66 @@ Backend development for productivity and self-improvement tracking.
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Development Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arasu404/arasu404/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasu404&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🌱 Learning Journey
+# 🌱 Learning Progress
 
 ```text
-Python          █████████░░ 85%
-Linux           ████████░░░ 80%
-Cybersecurity   ███████░░░░ 70%
-Django          ██████░░░░░ 60%
-AI/ML           ██████░░░░░ 60%
+Python             █████████░░░ 85%
+Linux              ████████░░░░ 80%
+Cybersecurity      ███████░░░░░ 70%
+Django             ██████░░░░░░ 60%
+Artificial Intelligence ██████░░░░░ 60%
 ```
+
+# 🏆 Goals for 2026
+
+- Build advanced Python projects
+- Strengthen cybersecurity skills
+- Participate in more CTF competitions
+- Master Django backend development
+- Contribute to open-source projects
+- Expand AI development knowledge
+- Create impactful portfolio projects
 
 ---
 
-## 🌐 Connect With Me
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/arasu404">
-  <img src="https://img.shields.io/badge/GitHub-arasu404-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-arasu404-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/arasu404">
-  <img src="https://img.shields.io/badge/LinkedIn-arasu404-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-arasu404-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+</p>
+
+---
+
+# 💡 Philosophy
+
+> Learn consistently.
+>
+> Build practical projects.
+>
+> Improve one step at a time.
 
 ---
 
 <div align="center">
 
-### 💡 "Learning, Building, Improving."
+### Thanks for visiting my profile 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=arasu404&label=Profile+Views&color=0e75b6&style=flat)
-
-</div><div align="center">
+</div>
